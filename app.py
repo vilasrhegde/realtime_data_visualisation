@@ -18,7 +18,7 @@ st.title('Streamlit Example')
 
 st.write(""" 
 # EXPLORE DIFFERENT CLASSIFIERS
-Normal text
+Let's change instantly!
 """)
 
 dataset_name = st.sidebar.selectbox('Select Built-In Dataset: ',('Iris','Breast Cancer','Wine Dataset'))
